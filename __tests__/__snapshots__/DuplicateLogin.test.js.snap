@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App snapshot 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#ffff",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "red",
+        "height": 170,
+        "marginHorizontal": 10,
+        "marginVertical": 20,
+        "width": 170,
+      }
+    }
+  >
+    <Text>
+      hi
+    </Text>
+  </View>
+</View>
+`;

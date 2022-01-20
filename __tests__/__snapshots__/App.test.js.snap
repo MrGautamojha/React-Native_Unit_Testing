@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App App 1`] = `
+<View
+  testID="APPTEST"
+>
+  <Provider
+    store={
+      Object {
+        "@@observable": [Function],
+        "dispatch": [Function],
+        "getState": [Function],
+        "replaceReducer": [Function],
+        "subscribe": [Function],
+      }
+    }
+  >
+    <ForwardRef(NavigationContainerInner)>
+      <StackNavigator />
+    </ForwardRef(NavigationContainerInner)>
+  </Provider>
+</View>
+`;
